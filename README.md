@@ -39,7 +39,7 @@ As análises revelaram as seguintes observações:
 
 ## ✅ Conclusão
 
-Com base nas métricas analisadas, **recomenda-se a venda da Loja 4**, que apresentou o menor faturamento total, avaliação média inferior à de outras lojas e o menor custo médio de frete (possível indicador de localização mais distante ou clientes com menor ticket médio).
+Com base nas métricas analisadas, **recomenda-se a venda da Loja 4**, que apresentou o menor faturamento total e avaliação média inferior à de outras lojas.
 
 ## 📌 Como Executar
 
